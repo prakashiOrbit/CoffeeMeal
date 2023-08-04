@@ -53,7 +53,7 @@ const ProductsPage = ({ user, auth }) => {
     }
   }, [categoryId, page, sortASC, router.query?.search]);
   useEffect(async () => {
-    const { data } = await getCategories('DESC', 'off');
+    const data = await getCategories('DESC', 'off');
     setDataCategories((oldVal) => ({ ...oldVal, data }));
   }, []);
   return (
@@ -76,7 +76,7 @@ const ProductsPage = ({ user, auth }) => {
             <div className="divider" />
             <p className="paragraph">COUPON CODE</p>
             <h3 className="heading-bold">FNPR15RG</h3>
-            <p className="paragraph">Valid untill October 10th 2020</p>
+            <p className="paragraph">Valid untill October 10th 2023</p>
           </div>
         </div>
         <Button theme="brown">Apply Coupon</Button>

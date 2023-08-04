@@ -50,7 +50,7 @@ const CartsPage = () => {
                 </div>
                 <div className="desc">
                   <h4 className="title-product">{cartValue.product_name}</h4>
-                  <p className="text">IDR {cartValue.total_price}</p>
+                  <p className="text">₹ {cartValue.total_price}</p>
                   <p className="text-utility">
                     Quantity : {cartValue.cart_stock}
                   </p>

@@ -81,7 +81,7 @@ const ProductDetailPage = ({ detailProduct, user, auth }) => {
             </div>
             <div className="desc">
               <h1 className="title-product">{detailProduct.product_name}</h1>
-              <h2>IDR {formatter.format(detailProduct.price)}</h2>
+              <h2>₹ {formatter.format(detailProduct.price)}</h2>
             </div>
             <div className="button-action">
               <Button className="btn btn-add" onClick={() => addCart()}>

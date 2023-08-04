@@ -28,7 +28,7 @@ const CardProduct = ({
           <img src={image} alt={name} />
         </div>
         <h4 className="title-product">{name}</h4>
-        <p className="price">IDR {formatter.format(price)}</p>
+        <p className="price">₹ {formatter.format(price)}</p>
       </div>
       {/* Jika role sebagai admin */}
       {access && (

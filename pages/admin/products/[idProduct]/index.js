@@ -297,7 +297,7 @@ const EditProduct = (props) => {
                 )}
               </div>
               <div className="row price-wrapper">
-                <p className="price">IDR</p>
+                <p className="price">₹</p>
                 <TextFieldAdmin
                   type="text"
                   name="price"

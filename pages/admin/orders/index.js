@@ -45,19 +45,19 @@ const OrdersPage = () => {
             <div className="divider" />
             <div className="row">
               <p className="sub-heading">SUBTOTAL</p>
-              <p className="sub-heading">IDR 120.000</p>
+              <p className="sub-heading">₹ 120.000</p>
             </div>
             <div className="row">
               <p className="sub-heading">TAX & FEES</p>
-              <p className="sub-heading">IDR 20.000</p>
+              <p className="sub-heading">₹ 20.000</p>
             </div>
             <div className="row">
               <p className="sub-heading">SHIPPING</p>
-              <p className="sub-heading">IDR 10.000</p>
+              <p className="sub-heading">₹ 10.000</p>
             </div>
             <div className="total">
               <p className="text-bold">TOTAL</p>
-              <p className="text-bold">IDR 150.000</p>
+              <p className="text-bold">₹ 150.000</p>
             </div>
           </CardWraper>
         </div>

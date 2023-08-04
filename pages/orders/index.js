@@ -64,7 +64,7 @@ const OrdersPage = ({ user, auth }) => {
             <div className="divider" />
             <div className="total">
               <p className="text-bold">TOTAL</p>
-              <p className="text-bold">IDR {formatter.format(totalPrice(cart_multi))}</p>
+              <p className="text-bold">₹ {formatter.format(totalPrice(cart_multi))}</p>
             </div>
           </CardWraper>
         </div>

@@ -169,7 +169,7 @@ function Home() {
                     height={24}
                   />
                   <span className="text">
-                    Free member card with a minimum purchase of IDR 200.000.
+                    Free member card with a minimum purchase of ₹ 200.000.
                   </span>
                 </div>
                 <div className="item-list">
@@ -238,7 +238,7 @@ function Home() {
                 </ul>
               </div>
               <div className="price-wrapper">
-                <p className="price-bold">IDR 25.000</p>
+                <p className="price-bold">₹ 25.000</p>
                 <button
                   className="btn-checkout"
                   onClick={() => router.push('/products')}
@@ -302,7 +302,7 @@ function Home() {
                 </ul>
               </div>
               <div className="price-wrapper">
-                <p className="price-bold">IDR IDR 30.000</p>
+                <p className="price-bold">₹ 30.000</p>
                 <button
                   className="btn-checkout "
                   onClick={() => router.push('/products')}
@@ -357,7 +357,7 @@ function Home() {
                 </ul>
               </div>
               <div className="price-wrapper">
-                <p className="price-bold">IDR 25.000</p>
+                <p className="price-bold">₹ 25.000</p>
                 <button
                   className="btn-checkout"
                   onClick={() => router.push('/products')}

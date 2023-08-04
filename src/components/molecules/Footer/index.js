@@ -41,7 +41,7 @@ const Footer = () => {
               />
             </div>
           </div>
-          <p className="copy-right">©2020CoffeeStore</p>
+          <p className="copy-right">©2023CoffeeStore</p>
         </div>
         <div className="navigation">
           <div className="section">

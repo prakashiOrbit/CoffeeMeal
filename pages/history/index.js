@@ -79,7 +79,7 @@ const HistoryPage = () => {
                 </div>
                 <div className="desc">
                   <h4 className="title-product">{history.product_name}</h4>
-                  <p className="text">IDR {history.total_price}</p>
+                  <p className="text">₹ {history.total_price}</p>
                   <p className="text">{history.status_order}</p>
                 </div>
                 {selected === index && (

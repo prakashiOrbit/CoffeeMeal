@@ -33,18 +33,18 @@ const OrderAdmin = () => {
                                     <h4>Regular</h4>
                                 </div>
                                 <div className="item-price">
-                                    <h4>IDR 24.000</h4>
+                                    <h4>₹ 24.000</h4>
                                 </div>
                             </div>
                             
                             <hr />
 
                             <div className="price">
-                                <h4>Subtotal <span>IDR 120.000</span></h4>
-                                <h4>Tax & Fees <span>IDR 20.000</span></h4>
-                                <h4>Shipping <span>IDR 10.000</span></h4>
+                                <h4>Subtotal <span>₹ 120.000</span></h4>
+                                <h4>Tax & Fees <span>ID₹R 20.000</span></h4>
+                                <h4>Shipping <span>₹ 10.000</span></h4>
                             </div>
-                            <div className="total"><h2>Total  <span>IDR 150.000</span></h2></div>
+                            <div className="total"><h2>Total  <span>₹ 150.000</span></h2></div>
 
                         </div>
                         <div className="layer1"></div>

@@ -14,7 +14,7 @@ const CardOrder = ({ nameProduct, total, price, imageProduct,size }) => {
         <p className="paragraph">x {total}</p>
         <p className="paragraph">{size}</p>
       </div>
-      <p className="price">IDR {formatter.format(price)}</p>
+      <p className="price">₹ {formatter.format(price)}</p>
     </StyledCardOrder>
   );
 };
