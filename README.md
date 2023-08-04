@@ -100,9 +100,10 @@ npm run dev
 ```
 
 ### Node Error
-Error: error:0308010C : digital envelope routines:: unsupported
-Solution : In the terminal write :  export NODE_OPTIONS =-- openssl-legacy-prov
-
+6. Error: error:0308010C : digital envelope routines:: unsupported
+```sh
+export NODE_OPTIONS =-- openssl-legacy-prov
+```
 <br/>
 
 ## Screenshots
