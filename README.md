@@ -79,7 +79,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone These 2 Repos (Backend and Frontend)
 ```sh
-git clone https://github.com/dwinovic/coffe-shop-next.git
+git clone https://github.com/prakashiOrbit/CoffeeMeal.git
 ```
 2. Go To Folder Repo
 ```sh
