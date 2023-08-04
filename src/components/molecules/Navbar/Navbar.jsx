@@ -30,9 +30,9 @@ const Navbar = (props) => {
   return (
     <>
       <Head>
-        {router.route.split('/')[1] === '' && <title>Coffe-Shoop | Home</title>}
+        {router.route.split('/')[1] === '' && <title>CoMeal | Home</title>}
         {router.route.split('/')[1] !== '' && (
-          <title>Coffe-Shoop | {formatUrl(router.route.split('/')[1])}</title>
+          <title>CoMeal | {formatUrl(router.route.split('/')[1])}</title>
         )}
       </Head>
       <div className={style.navbar}>
