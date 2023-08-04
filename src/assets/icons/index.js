@@ -13,6 +13,7 @@ import ICChecklistGreen from './checklist.png';
 import ICAvatar from './ic-avatar.png';
 import ICLocation from './ic-location.png';
 import ICLove from './ic-love.png';
+import meal from './meal.png';
 
 export {
   ICAvatar,
@@ -30,4 +31,5 @@ export {
   ICBank,
   ICHall,
   ICCars,
+  meal,
 };

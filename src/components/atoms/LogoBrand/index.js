@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import Image from 'next/image';
-import { IC_Logo } from '../../../assets/icons';
+import { IC_Logo ,meal} from '../../../assets/icons';
 import router from 'next/router';
 import PropTypes from 'prop-types';
 
@@ -13,8 +13,8 @@ const LogoBrand = ({ click, className }) => {
       className={className}
       onClick={click ? anchorToHome : null}
     >
-      <Image src={IC_Logo} alt="coffe shop logo" width={30} height={33} />
-      <p>Coffee Shop</p>
+      <Image src={meal} alt="coffe shop logo" width={46} height={36} />
+      <p>CoMeal Shop</p>
     </StyledLogoBrand>
   );
 };
