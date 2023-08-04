@@ -10,14 +10,14 @@
   <p align="center">
     Coffee Shop is a Foods & Beverages ordering application. <br /> This apps give you (customers) some features to order your favorite foods or beverages. 
     <br />
-    <a href="https://github.com/dwinovic/coffe-shop-next"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/prakashiOrbit/CoffeeMeal"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://coffee-shop-next.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/dwinovic/coffe-shop-next">Report Bug</a>
+    <a href="https://github.com/prakashiOrbit/CoffeeMeal">Report Bug</a>
     ·
-    <a href="https://github.com/dwinovic/coffe-shop-next">Request Feature</a>
+    <a href="https://github.com/prakashiOrbit/CoffeeMeal">Request Feature</a>
   </p>
 </p>
 
