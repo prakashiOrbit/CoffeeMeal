@@ -99,9 +99,9 @@ NEXT_PUBLIC_ID_DELIVER_DINE_IN = [19]
 npm run dev
 ```
 
-### Related Project
-* [`Frontend Coffe Shop`](https://github.com/dwinovic/coffe-shop-next)
-* [`Backend Coffe Shop`](https://github.com/dwinovic/coffee-shop-express)
+### Node Error
+Error: error:0308010C : digital envelope routines:: unsupported
+Solution : In the terminal write :  export NODE_OPTIONS =-- openssl-legacy-prov
 
 <br/>
 
